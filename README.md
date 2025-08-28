@@ -1,4 +1,4 @@
-# Pansharpening
+# A General Zero-Shot Joint Training Framework for Pansharpening
 conda create -n light python=3.8
 
 conda activate light
